@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculadoraNotas</string>
+    <string name="tituloLayout">registre sus notas para calcular</string>
+</resources>
