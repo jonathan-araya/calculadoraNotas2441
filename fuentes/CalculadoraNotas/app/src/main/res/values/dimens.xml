@@ -5,4 +5,5 @@
     <dimen name="padding">15dp</dimen>
     <dimen name="margintopbase">80dp</dimen>
     <dimen name="titulo">40dp</dimen>
+    <dimen name="margintop2">30dp</dimen>
 </resources>
